@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.title{
+    text-align: center;
+    font-family: Apple Chancery, cursive;
+    font-size: 40px;
+    
+}
+.corpo{
+    text-align: center;
+    border-radius: 30px;
+    height: 620px;
+    margin-top: 5px;
+    margin-left: 20%;
+    border:solid 1px black;
+    box-shadow: 2px gray;
+    width: 800px;
+    background-image: linear-gradient( to right,green,red, yellow ); 
+}
+
+.icones{
+    text-align: center;
+    border: solid 1px black;
+    padding: 2px;
+    margin: 3px;
+    width: 450px;
+    position:absolute;
+    top:50%;
+    margin-left:15%;
+}
+.curiosidade{
+    font-style: italic;
+    padding:5px;
+    width: 400px;
+    text-align: left;
+}
+img{
+    width: 300px;
+    height:200px ;
+    border-radius: 30px;
+    padding-top: 5px;
+}
+span{
+    font-weight: bold;
+}
+ul{
+    list-style-type: none;
+    text-align: left;
+    padding: 5px;
+}
+.resumo{
+    font-family: OCR A Std, monospace;
+    padding: 5px;
+    text-align: left;
+}
